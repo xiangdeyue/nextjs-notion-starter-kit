@@ -2,24 +2,24 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '69300519aa2a465aa70f4f12edd1e3e0',
+  rootNotionPageId: 'a529e3cb76e340de830aa929a18f77c2',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: 'o-id',
 
   // basic site info (required)
-  name: 'o-id',
-  domain: 'o-id.cc',
-  author: 'o-id',
+  name: 'xiang186',
+  domain: 'https://www.notion.so/a529e3cb76e340de830aa929a18f77c2?v=b6424fd830994c928a35c73c70606157&pvs=4',
+  author: 'xiang',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'chusight1',
-  github: 'chusight',
-  zhihu: 'chusight',
+  twitter: '',
+  github: 'xiangdeyue',
+  zhihu: 'xiang-59',
   // linkedin: '',
   // instagram: 'onet2lee',
 
